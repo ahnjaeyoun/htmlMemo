@@ -20,7 +20,7 @@
 <td> : 한 컬럼을 나타냄
 <th> : td와 기본은 같지만 추가적으로 굵은 글씨, 가운데 정렬
 <caption> : 테이블의 제목이나, 설명 내용을 추가
-border : 선 굵기
+border : 선 정의
 width : 가로 크기
 height : 세로 크기
 rowspan : 상하 병합
